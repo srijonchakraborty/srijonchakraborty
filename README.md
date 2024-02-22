@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Srijon Chakraborty</h1>
-<h5 align="center">Hi there! I'm Srijon Chakraborty, a seasoned .NET and Angular developer with expertise in SQL Server and MongoDB.I bring with me extensive experience in designing applications following design patterns, object-oriented programming (OOP), SOLID principles, and ACID principles. I began my journey with Microsoft technologies as a student in Bangladesh, where I excelled in pattern recognition, and even secured the local runner-up position in the Microsoft Imagine Cup 2014. With over 8 years of dedicated work in the software industry, I'm passionate about crafting efficient and robust solutions to complex problems.</h5>
+<h4 align="center">Hi there! I'm Srijon Chakraborty, a seasoned .NET and Angular developer with expertise in SQL Server and MongoDB.I bring with me extensive experience in designing applications following design patterns, object-oriented programming (OOP), SOLID principles, and ACID principles. I began my journey with Microsoft technologies as a student in Bangladesh, where I excelled in pattern recognition, and even secured the local runner-up position in the Microsoft Imagine Cup 2014. With over 8 years of dedicated work in the software industry, I'm passionate about crafting efficient and robust solutions to complex problems.</h4>
 
 
 <img align="right" width="400" src="https://github.com/srijonchakraborty/srijonchakraborty/assets/10357119/3d802723-a402-43ec-837b-2b431a140f06"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijonchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="srijonchakraborty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijonchakraborty" alt="srijonchakraborty" /></a> </p>
 
 - 🌱 I’m currently learning **Tensorflow AI, GraphQL, python, Designing Data-Intensive application.**
 
@@ -14,7 +12,6 @@
 
 - 👨‍💻 Sometime I provide answer in Stackoverflow [https://stackoverflow.com/users/10415177](https://stackoverflow.com/users/10415177)
 
-- 📫 How to reach me **srijonchak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,4 +35,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijonchakraborty&show_icons=true&locale=en" alt="srijonchakraborty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijonchakraborty&" alt="srijonchakraborty" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijonchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="srijonchakraborty" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijonchakraborty" alt="srijonchakraborty" /></a> </p>
 
