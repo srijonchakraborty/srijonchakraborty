@@ -1,7 +1,8 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Srijon Chakraborty</h1>
 <h3 align="center">Hi there! I'm Srijon Chakraborty, a seasoned .NET and Angular developer with expertise in SQL Server and MongoDB.I bring with me extensive experience in designing applications following design patterns, object-oriented programming (OOP), SOLID principles, and ACID principles. I began my journey with Microsoft technologies as a student in Bangladesh, where I excelled in pattern recognition, and even secured the local runner-up position in the Microsoft Imagine Cup 2014. With over 8 years of dedicated work in the software industry, I'm passionate about crafting efficient and robust solutions to complex problems.</h3>
+
+![62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc](https://github.com/srijonchakraborty/srijonchakraborty/assets/10357119/3d802723-a402-43ec-837b-2b431a140f06)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijonchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="srijonchakraborty" /> </p>
 
