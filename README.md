@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srijon Chakraborty</h1>
-<h4 align="center">Hi there! I'm Srijon Chakraborty, a seasoned .NET and Angular developer with expertise in SQL Server and MongoDB.I bring with me extensive experience in designing applications following design patterns, object-oriented programming (OOP), SOLID principles, and ACID principles. I began my journey with Microsoft technologies as a student in Bangladesh, where I excelled in pattern recognition, and even secured the local runner-up position in the Microsoft Imagine Cup 2014. With over 8 years of dedicated work in the software industry, I'm passionate about crafting efficient and robust solutions to complex problems.</h4>
-
+<h4 align="center">Hi there! I'm Srijon Chakraborty, a seasoned .NET and Angular developer with expertise in SQL Server and MongoDB. I have expertise in design patterns, object-oriented programming (OOP), SOLID principles, and ensuring data integrity through ACID principles. My journey with Microsoft technologies began during my academic years in Bangladesh. I was a Microsoft Student Partner(MSP) in Bangladesh. I was a Microsoft Imagine Cup runner-up (local) in 2014. I now work for a software company in Bangladesh.</h4>
 
 <img align="right" width="400" src="https://github.com/srijonchakraborty/srijonchakraborty/assets/10357119/3d802723-a402-43ec-837b-2b431a140f06"/>
-
-
 
 - 🌱 I’m currently learning **Tensorflow AI, GraphQL, python, Designing Data-Intensive application.**
 
